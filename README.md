@@ -19,6 +19,7 @@
 <a href="https://ph-palmito.github.io/html-css-Curso-em-video/exercicio/ex22/index.html" target ="_blank"> Executar o exercicio 022 </a>
 <br>
 Desafios
+<br>
 <a href="https://ph-palmito.github.io/html-css-Curso-em-video/desafio/desafio videos/index.html" target ="_blank"> desafio dos videos </a>
 <br>
 <a href="https://ph-palmito.github.io/html-css-Curso-em-video/desafio/desafio bateria/batery.html" target ="_blank"> animaçao de uma bateria carregando </a>
