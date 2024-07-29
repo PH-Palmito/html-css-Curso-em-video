@@ -4,7 +4,9 @@
    font-family: Arial, Helvetica, sans-serif;
 
 }
-body{ background-image:linear-gradient(to right,#0061ff,#60efff ) ;
+body
+{
+    background-image:linear-gradient(to right,#0061ff,#60efff ) ;
 }
 
 main {
